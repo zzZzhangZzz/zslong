@@ -1,0 +1,11 @@
+F:\C#\S2Chapter0101\FrmQingjia\bin\Debug\FrmQingjia.exe.config
+F:\C#\S2Chapter0101\FrmQingjia\bin\Debug\FrmQingjia.exe
+F:\C#\S2Chapter0101\FrmQingjia\bin\Debug\FrmQingjia.pdb
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.csprojResolveAssemblyReference.cache
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.FrmShow.resources
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.Properties.Resources.resources
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.csproj.GenerateResource.Cache
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.exe
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.pdb
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.FrmInsert.resources
+F:\C#\S2Chapter0101\FrmQingjia\obj\Debug\FrmQingjia.FrmDaka.resources
